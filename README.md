@@ -1,2 +1,5 @@
 # intelligentAgentsandMultiAgentSys
-repo for IA and MAS course 
+repo for Intelligent Agents and Multi Agent Systems course for Applied Informatics students.
+
+- NetLogo
+- Python 
